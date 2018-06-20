@@ -26,6 +26,16 @@
     color: white;
   }
 
+  .btn {
+    background: cadetblue;
+    border: 1px black;
+    color: white;
+  }
+
+  .btn a.active {
+    background-color:tomato;
+    color: white;
+  }
 
   div { 
     display: block; 
